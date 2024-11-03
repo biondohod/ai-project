@@ -1,0 +1,3 @@
+torch
+transformers
+faiss-cpu      # для реализации поиска, если используется Faiss
